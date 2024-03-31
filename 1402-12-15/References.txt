@@ -1,0 +1,34 @@
+Vectors
+--------
+
+https://www.programiz.com/cpp-programming/vectors
+
+
+2D Vectors
+-----------
+
+https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/
+
+
+Arrays
+-------
+
+https://www.programiz.com/cpp-programming/arrays
+
+
+Multidimensional Arrays
+------------------------
+
+https://www.programiz.com/cpp-programming/multidimensional-arrays
+
+
+Switch Case
+------------
+
+https://www.programiz.com/cpp-programming/switch-case
+
+
+Enumerations
+-------------
+
+https://www.programiz.com/cpp-programming/enumeration
